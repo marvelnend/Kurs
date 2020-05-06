@@ -1,0 +1,97 @@
+{
+  "$id": "1",
+  "hotels": [
+    {
+      "$id": "2",
+      "hotelName": "FriendHouse",
+      "namberOfStars": 5
+    },
+    {
+      "$id": "3",
+      "hotelName": "Струмочок",
+      "namberOfStars": 4
+    },
+    {
+      "$id": "4",
+      "hotelName": "Баккара",
+      "namberOfStars": 3
+    },
+    {
+      "$id": "5",
+      "hotelName": "Брістоль",
+      "namberOfStars": 2
+    },
+    {
+      "$id": "6",
+      "hotelName": "Історія",
+      "namberOfStars": 1
+    },
+    {
+      "$id": "7",
+      "hotelName": "Леополіс",
+      "namberOfStars": 0
+    },
+    {
+      "$id": "8",
+      "hotelName": "Хижина СПА",
+      "namberOfStars": 3
+    },
+    {
+      "$id": "9",
+      "hotelName": "Radisson Blu Resort",
+      "namberOfStars": 5
+    }
+  ],
+  "localities": [
+    {
+      "$id": "10",
+      "country": "Україна",
+      "city": "Івано-Франківськ",
+      "hotels": []
+    },
+    {
+      "$id": "11",
+      "country": "Англія",
+      "city": "Balancing Barn",
+      "hotels": []
+    },
+    {
+      "$id": "12",
+      "country": "Куба",
+      "city": "Hotel Saratoga",
+      "hotels": []
+    },
+    {
+      "$id": "13",
+      "country": "Японія",
+      "city": "Houshi Ryokan",
+      "hotels": []
+    },
+    {
+      "$id": "14",
+      "country": "Болівія",
+      "city": "Palacio de Sal",
+      "hotels": []
+    },
+    {
+      "$id": "15",
+      "country": "Індонезія",
+      "city": "Alila Ubud",
+      "hotels": []
+    },
+    {
+      "$id": "16",
+      "country": "Індія",
+      "city": "Oberoi Udaivilas",
+      "hotels": []
+    },
+    {
+      "$id": "17",
+      "country": "Росія",
+      "city": "Москва",
+      "hotels": []
+    }
+  ],
+  "priceLists": [],
+  "tours": []
+}

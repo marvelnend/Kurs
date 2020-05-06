@@ -1,0 +1,44 @@
+C:\Users\Nick\source\repos\Kursova\Kursova\obj\Debug\Kursova.Properties.Resources.resources
+C:\Users\Nick\source\repos\Kursova\Kursova\obj\Debug\Kursova.TourForm.resources
+C:\Users\Nick\source\repos\Kursova\Kursova\obj\Debug\Kursova.csproj.GenerateResource.cache
+C:\Users\Nick\source\repos\Kursova\Kursova\bin\Debug\Kursova.exe.config
+C:\Users\Nick\source\repos\Kursova\Kursova\bin\Debug\Kursova.exe
+C:\Users\Nick\source\repos\Kursova\Kursova\bin\Debug\Kursova.pdb
+C:\Users\Nick\source\repos\Kursova\Kursova\obj\Debug\Kursova.exe
+C:\Users\Nick\source\repos\Kursova\Kursova\obj\Debug\Kursova.pdb
+C:\Users\Nick\source\repos\Kursova\Kursova\obj\Debug\Kursova.AboutTour.resources
+C:\Users\Nick\source\repos\Kursova\Kursova\obj\Debug\Kursova.AboutLocality.resources
+C:\Users\Nick\source\repos\Kursova\Kursova\obj\Debug\Kursova.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\Kursova\Kursova\obj\Debug\Kursova.models.PriceListForm.resources
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\obj\Debug\Kursova.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\obj\Debug\Kursova.AboutLocality.resources
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\obj\Debug\Kursova.AboutTour.resources
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\obj\Debug\Kursova.models.PriceListForm.resources
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\obj\Debug\Kursova.Properties.Resources.resources
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\obj\Debug\Kursova.TourForm.resources
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\obj\Debug\Kursova.csproj.GenerateResource.cache
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\obj\Debug\Kursova.exe
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\obj\Debug\Kursova.pdb
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\bin\Debug\Kursova.exe.config
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\bin\Debug\Kursova.exe
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\bin\Debug\Kursova.pdb
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\obj\Debug\Kursova.csproj.CopyComplete
+C:\Users\Nick\Desktop\kursach 21\Kurs21\Kursova\Kursova\obj\Debug\Kursova.csproj.CoreCompileInputs.cache
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\bin\Debug\Kursova.exe.config
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\bin\Debug\Kursova.exe
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\bin\Debug\Kursova.pdb
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.csprojAssemblyReference.cache
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.AboutLocality.resources
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.AboutTour.resources
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.models.PriceListForm.resources
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.Properties.Resources.resources
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.TourForm.resources
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.csproj.GenerateResource.cache
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.csproj.CoreCompileInputs.cache
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.csproj.CopyComplete
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.exe
+C:\Users\Marve\OneDrive\Рабочий стол\Kursova\Kursova\obj\Debug\Kursova.pdb
